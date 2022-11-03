@@ -197,3 +197,26 @@ Setting description
 Adding default .gitignore
 Syncing /volume1/SOLDERED products/Soldered products/Senzori-blue/Alcohol, Ethanol sensor MQ3 breakout to Alcohol--Ethanol-sensor-MQ3-breakout-hardware-design
 Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Senzori-blue/Methane, Natural gas sensor MQ214 breakout/.git/
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   log.txt
+
+[main 4d5d96a] Updating open source files.
+ 1 file changed, 23 insertions(+)
+https://github.com/SolderedElectronics/Methane--Natural-gas-sensor-MQ214-breakout-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Senzori-blue/Air quality sensor SGP30-2.5K breakout/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Senzori-blue/CO2 sensor SCD4X breakout/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Senzori-blue/Alcohol, Ethanol sensor MQ3 breakout/OUTPUTS/V1.1.1: all files are present, commiting...
+Alcohol--Ethanol-sensor-MQ3-breakout-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Senzori-blue/Alcohol, Ethanol sensor MQ3 breakout to Alcohol--Ethanol-sensor-MQ3-breakout-hardware-design
+Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Senzori-blue/Methane, Natural gas sensor MQ214 breakout/.git/
