@@ -454,3 +454,81 @@ https://github.com/SolderedElectronics/Methane--Natural-gas-sensor-MQ214-breakou
 /volume1/SOLDERED products/Soldered products/Senzori-blue/Color & gesture sensor APDS-9960 breakout/OUTPUTS/V1.1.1: missing files in OUTPUTS
  - Wrong number of jpgs 2
 Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Senzori-blue/Methane, Natural gas sensor MQ214 breakout/.git/
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   log.txt
+
+[main 4d11d00] Updating open source files.
+ 1 file changed, 78 insertions(+)
+https://github.com/SolderedElectronics/Methane--Natural-gas-sensor-MQ214-breakout-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Senzori-blue/Air quality sensor SGP30-2.5K breakout/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Senzori-blue/CO2 sensor SCD4X breakout/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Senzori-blue/Alcohol, Ethanol sensor MQ3 breakout/OUTPUTS/V1.1.1: missing files in OUTPUTS
+ - Wrong number of jpgs 2
+/volume1/SOLDERED products/Soldered products/Senzori-blue/Position sensor AS5600 breakout/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Senzori-blue/Heart rate MAX30102 sensor breakout/OUTPUTS/V2.0.0: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Senzori-blue/Current sensor 30A ACS712 breakout/OUTPUTS/V1.1.1: missing files in OUTPUTS
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Senzori-blue/Lighting sensor AS3935 breakout/OUTPUTS/V1.1.1: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of zips 0
+ - Wrong number of csv 0
+ - Wrong number of html 0
+/volume1/SOLDERED products/Soldered products/Senzori-blue/Anemometer sensor/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+/volume1/SOLDERED products/Soldered products/Senzori-blue/Wind Direction sensor/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Senzori-blue/Magnetometar LIS2MDL breakout/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Senzori-blue/PIR movement sensor board with easyC/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Senzori-blue/Rain gauge sensor/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+ - Wrong number of zips 0
+ - Wrong number of csv 0
+ - Wrong number of html 0
+/volume1/SOLDERED products/Soldered products/Senzori-blue/Rottary encoder board with easyC/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Senzori-blue/High precision temperature sensor TMP117 breakout/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Senzori-blue/Temperature & humidity high precision sensor HS3003 breakout/OUTPUTS/V1.0.0: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+ - Wrong number of zips 0
+ - Wrong number of csv 0
+ - Wrong number of html 0
+/volume1/SOLDERED products/Soldered products/Senzori-blue/Temperature & humidity sensor SHTC3 breakout/OUTPUTS/V1.2.2: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Senzori-blue/Color & gesture sensor APDS-9960 breakout/OUTPUTS/V1.1.1: missing files in OUTPUTS
+ - Wrong number of jpgs 2
+Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Senzori-blue/Methane, Natural gas sensor MQ214 breakout/.git/
